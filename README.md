@@ -1,6 +1,6 @@
 # PyTest Reference Formatter (PyRF)
 ![GitHub top language](https://img.shields.io/github/languages/top/PaesslerAG/pytest-reference-formatter.svg)
-![GitHub](https://img.shields.io/github/license/PaesslerAG/pytest-reference-formatter)
+![GitHub](https://img.shields.io/github/license/PaesslerAG/pytest-reference-formatter.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/PaesslerAG/pytest-reference-formatter.svg)
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/PaesslerAG/pytest-reference-formatter.svg)
 
